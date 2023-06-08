@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "pr1830"
+  },
+  "course_image": {
+    "content": "f12392ef-0b82-4881-a5b4-2fbb77684bae",
+    "website": "pr1830"
+  },
+  "course_title": "pr1830",
+  "course_description": "pr1830",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "f12392ef-0b82-4881-a5b4-2fbb77684bae",
+    "website": "pr1830"
+  },
+  "learning_resource_types": [],
+  "site_uid": "8c886f65-d94d-4e38-bb0a-c818cc635c34",
+  "site_short_id": "pr1830"
+}
