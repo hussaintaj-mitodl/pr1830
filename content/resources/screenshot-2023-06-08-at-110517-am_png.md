@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/pr1830/screenshot-2023-06-08-at-110517-am.png
+file: /media/courses/1-pr1830-spring-2023/screenshot-2023-06-08-at-110517-am.png
 file_type: image/png
 image_metadata:
   caption: ''
